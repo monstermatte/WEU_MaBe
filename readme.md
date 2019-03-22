@@ -5,8 +5,11 @@
 
 ## Planering
 ### Innehåll
+Det kommer finnas en startsida, en about sida med allmän info om sidan, en experience sida och en contact sida med olika sätt att kontakta mig.
 ### Layout
+Det är en relativ enkel och "clean" layout utan massor med onödigheter. Kommer finnas en navbar för att enkelt nå den information man vill åt. Man ska även kunna skrolla för att komma till resten av sidan istället för att ladda en helt ny sida.
 ### Färgval
+Jag valde dessa på grund av att dom inte står ut särskilt mycket och går bra ihop.
 
 ##### Bakgrund - MINE SHAFT
 ###### Användningsområde 
@@ -26,57 +29,22 @@
 
 ###### RGB - rgb(255,255,255)	
 
-##### Beteende - CLAY CREEK
+##### Text 
+WHITE
 ###### Användningsområde
-###### HEX - #807e61: ![alt-text](https://via.placeholder.com/20/807e61/807e61?Text=%20 "#807e61")
+###### HEX - #FFFFFF 
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
-
-##### Text -SHARK
-###### Användningsområde
-###### HEX - #1a1a21: ![alt-text](https://via.placeholder.com/20/1a1a21/1a1a21?Text=%20 "#1a1a21")
-
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(255,255,255)
 
 ### Typsnitt
+GeosansLight-NMS
+
 ### Mockup
+https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129357/assignments/94735/files/getSolution/1248949
+
 ### Tillgänglighet
+Ska vara anpassad att funka på de mest använda enheterna.
 
 ## Dokumentation
-### Kod
-```html
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="Author" content="">
-	<meta name="Description" content="">
-	<meta name="keywords" content="">
-	<title>Porkforge</title>
 
-	<!-- +=================+ -->
-	<!-- |    CSS  AREA    | -->
-	<!-- +=================+ -->
-	<!-- |      RESET      | -->
-	<!-- |     VENDOR      | -->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-	<!-- |     MASTER      | -->
-	<link rel="stylesheet" href="./assets/css/master.css">
-	<!-- |     CUSTOM      | -->
-	<link rel="stylesheet" href="./assets/css/custom.css">
-	<!-- +=================+ -->
-
-	<!-- +=================+ -->
-	<!-- |    ICON AREA    | -->
-	<!-- +=================+ -->
-	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-	<!-- +=================+ -->
-
-	<!-- +=================+ -->
-	<!-- |    FONT AREA    | -->
-	<!-- +=================+ -->
-	<!-- |     CUSTOM      | -->
-	<!-- +=================+ -->
-</head>
-```
 Rep. för lärare i Webbutveckling 1
