@@ -1,5 +1,5 @@
 # Utvecklingsprojekt i Webbutveckling 1
-*Victor Bohmies*
+*Mattias Berglund*
 
 ## Bakgrund
 
@@ -8,23 +8,23 @@
 ### Layout
 ### Färgval
 
-##### Bakgrund - DAWN PINK
+##### Bakgrund - MINE SHAFT
+###### Användningsområde 
+###### HEX - #2A2A2A
+
+###### RGB - rgb(42,42,42)
+
+##### Element - WHITE
 ###### Användningsområde
-###### HEX - #F0E7DC: ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### HEX - #FFFFFF 
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(255,255,255)
 
-##### Element - DE YORK
+##### Huvudsaklig färg - WHITE
 ###### Användningsområde
-###### HEX - #76c187: ![alt-text](https://via.placeholder.com/20/76c187/76c187?Text=%20 "#76c187")
+###### HEX - #FFFFFF
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
-
-##### Huvudsaklig färg - VIRIDIAN GREEN
-###### Användningsområde
-###### HEX - #5f877e: ![alt-text](https://via.placeholder.com/20/5f877e/5f877e?Text=%20 "#5f877e")
-
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(255,255,255)	
 
 ##### Beteende - CLAY CREEK
 ###### Användningsområde
