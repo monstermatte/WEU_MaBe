@@ -43,5 +43,3 @@ Ska vara anpassad att funka på de mest använda enheterna.
 
 ## Dokumentation
 https://cdn.discordapp.com/emojis/494166812922085376.png?v=1
-
-Rep. för lärare i Webbutveckling 1
